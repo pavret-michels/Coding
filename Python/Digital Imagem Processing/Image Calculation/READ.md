@@ -11,8 +11,7 @@ Crie uma imagem binária contendo um triângulo equilátero (original). Crie mai
 Calcule a compacidade para as 4 imagens, dos triângulos equiláteros, e compare os resultados.<br/>
 c) Considere uma imagem binária contendo quadrados, triângulos equiláteros e outros objetos.<br/> 
 Implemente um programa que pinte de verde os objetos quadrados, e pinte de azul os objetos classificados como triângulos equiláteros.<br/>
-<br/> <br/>
-  
+<br/> <br/>  
 _[EN]1. Exercise:<br/>
 a) What is the compactness of a square?<br/>
 It is the measure of its shape's goal, that is, it is defined as the square of the ratio between the object's perimeter and its total area.
