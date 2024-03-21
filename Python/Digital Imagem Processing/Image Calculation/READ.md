@@ -21,5 +21,5 @@ b) What is the compactness of an equilateral triangle?<br/>
 Create a binary image containing an equilateral triangle (original). Create 3 more images by applying rotation, translation, and scaling to the original image.
 Calculate the compactness for the 4 images of the equilateral triangles and compare the results.<br/>
 c) Consider a binary image containing squares, equilateral triangles, and other objects.<br/>
-Implement a program that paints squares green and paints objects classified as equilateral triangles blue.<br/>_
+Implement a program that paints squares green and paints objects classified as equilateral triangles blue._<br/>
 </justify>
