@@ -1,8 +1,8 @@
 **Fourier Transform**
 
 <justify>
-[PT]
-1. Implemente, utilizando rotinas prontas em OpenCV, Python e Google Colab, o programa com a seguinte especificação:
+[PT]<br/>
+1. Implemente, utilizando rotinas prontas em OpenCV, Python e Google Colab, o programa com a seguinte especificação:<br/>
 - Leitura de uma imagem<br/>
 - Mostrar a imagem original lida<br/>
 - Transformar a Imagem em níveis de Cinza<br/>
@@ -13,7 +13,7 @@ Mostrar a imagem resultante<br/>
 <br/> <br/>
 
   
-_[EN]1. Implement, using ready-made routines in OpenCV, Python, and Google Colab, the program with the following specification:
+_[EN]<br/>1. Implement, using ready-made routines in OpenCV, Python, and Google Colab, the program with the following specification:<br/>
 Read an image.<br/>
 Display the original image.<br/>
 Convert the image to grayscale.<br/>
