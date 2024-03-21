@@ -12,7 +12,7 @@ Calcule a compacidade para as 4 imagens, dos triângulos equiláteros, e compare
 c) Considere uma imagem binária contendo quadrados, triângulos equiláteros e outros objetos.<br/> 
 Implemente um programa que pinte de verde os objetos quadrados, e pinte de azul os objetos classificados como triângulos equiláteros.<br/>
 <br/> <br/>  
-_[EN]1. Exercise:<br/>
+[EN]1. Exercise:<br/>
 a) What is the compactness of a square?<br/>
 It is the measure of its shape's goal, that is, it is defined as the square of the ratio between the object's perimeter and its total area.
 Create a binary image containing a square (original). Create 3 more images by applying rotation, translation, and scaling to the original image.
@@ -21,5 +21,5 @@ b) What is the compactness of an equilateral triangle?<br/>
 Create a binary image containing an equilateral triangle (original). Create 3 more images by applying rotation, translation, and scaling to the original image.
 Calculate the compactness for the 4 images of the equilateral triangles and compare the results.<br/>
 c) Consider a binary image containing squares, equilateral triangles, and other objects.<br/>
-Implement a program that paints squares green and paints objects classified as equilateral triangles blue._<br/>
+Implement a program that paints squares green and paints objects classified as equilateral triangles blue.<br/>
 </justify>
